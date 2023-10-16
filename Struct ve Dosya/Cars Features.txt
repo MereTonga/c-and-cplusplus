@@ -1,0 +1,12 @@
+1. Arabanizin rengi = mavi
+1. Arabanizin modeli = ford
+1. Arabanizin fiyati = 540
+
+2. Arabanizin rengi = yeşil
+2. Arabanizin modeli = fiat
+2. Arabanizin fiyati = 45
+
+3. Arabanizin rengi = turuncu
+3. Arabanizin modeli = mercedes
+3. Arabanizin fiyati = 45
+
